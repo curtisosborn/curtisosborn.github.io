@@ -3,9 +3,9 @@ p {
 }
 
 body {
-  font-family: 'Abril Fatface', Sans-serif;
+  font-family: 'Trebuchet MS', Sans-serif;
   background-color: #009933;
 }
 .jumbotron {
-  background-color: grey; 
+  background-color: #009933; 
 }
