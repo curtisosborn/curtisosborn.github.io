@@ -2,6 +2,10 @@ p {
   color: red;
 }
 
+body {
+  font-family: 'Abril Fatface', Sans-serif;
+  background-color: #4CBB17
+}
 .jumbotron {
   background-color: grey; 
 }
