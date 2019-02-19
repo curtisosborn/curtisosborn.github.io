@@ -31,8 +31,14 @@ body {
 
 .date {
   float: right;
+  margin: 2px;
 }
 
 .job-title {
   font-size: 16;
+  margin: 2px;
+}
+
+.duties {
+  font-size: 8px;
 }
