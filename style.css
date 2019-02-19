@@ -27,3 +27,7 @@ body {
   background-color: green;
   color: blue;
 }
+
+.date {
+  float: right;
+}
