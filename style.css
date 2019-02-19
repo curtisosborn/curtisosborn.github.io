@@ -30,15 +30,20 @@ body {
 }
 
 .date {
+  position: relative;
   float: right;
   margin: 2px;
 }
 
 .job-title {
   font-size: 16;
-  margin: 2px;
+  margin: 5px;
+}
+
+.job-title h {
+  margin: 0;
 }
 
 .duties {
-  font-size: 8px;
+  font-size: 12px;
 }
