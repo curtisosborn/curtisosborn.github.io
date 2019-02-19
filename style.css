@@ -11,7 +11,7 @@
 
 body {
   font-family: 'Trebuchet MS', Sans-serif;
-  background-image: url(tree-bark.png);
+  background: url(tree-bark.png);
 }
 
 .jumbotron {
