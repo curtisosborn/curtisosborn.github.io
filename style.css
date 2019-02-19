@@ -2,7 +2,7 @@
   width: 800px;
   margin: 40px auto 60px;
   padding: 10px;
-  background-color: LighGrey;
+  background-color: rgba(84, 84, 84, 0.60);
   border: 2px solid black;
   border-radius: 10px;
   box-shadow: 5px 5px 5px rgba(84, 84, 84, 0.40);
