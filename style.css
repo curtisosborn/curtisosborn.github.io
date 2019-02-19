@@ -1,16 +1,17 @@
 #container {
 	width: 800px;
 	margin: 40px auto 60px;
+  background-color: #67fc6e;
 }
 
 #my-name {
-  font-size: 20px;
-  color: #67fc6e;
+  font-size: 26px;
+  color: white;
 }
 
 body {
   font-family: 'Trebuchet MS', Sans-serif;
-  background-color: green;
+  background-color: grey;
 }
 .jumbotron {
   background-color: green;
