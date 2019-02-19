@@ -1,10 +1,11 @@
 #container {
   width: 800px;
   margin: 40px auto 60px;
-  background-color: grey;
+  padding: 10px;
+  background-color: LighGrey;
   border: 2px solid black;
   border-radius: 10px;
-  box-shadow: 10px 5px 5px rgba(84, 84, 84, 0.69);
+  box-shadow: 5px 5px 5px rgba(84, 84, 84, 0.40);
 }
 
 #my-name {
@@ -30,4 +31,8 @@ body {
 
 .date {
   float: right;
+}
+
+.job-title {
+  font-size: 16;
 }
