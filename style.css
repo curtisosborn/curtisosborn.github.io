@@ -30,7 +30,6 @@ body {
 }
 
 .date {
-  position: relative;
   float: right;
   margin: 2px;
 }
