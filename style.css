@@ -8,6 +8,14 @@
   box-shadow: 5px 5px 5px rgba(84, 84, 84, 0.40);
 }
 
+#work-experience {
+  margin: 0 0 5px 0;
+}
+
+.company {
+  margin: 0 0 5px 0;
+}
+
 #my-name {
   font-size: 26px;
   color: white;
@@ -32,6 +40,7 @@ body {
 .date {
   float: right;
   margin: 2px;
+  font-size: 16;
 }
 
 .job-title {
