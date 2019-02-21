@@ -6,7 +6,6 @@
   border: 2px solid black;
   border-radius: 10px;
   box-shadow: 5px 5px 5px rgba(84, 84, 84, 0.40);
-  bottom-border: 2px solid black;
 }
 
 #work-experience {
@@ -21,6 +20,7 @@
   font-size: 26px;
   color: white;
   padding: 10px;
+  bottom-border: 2px solid black;
 }
 
 .my-contact {
