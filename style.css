@@ -8,6 +8,11 @@
   box-shadow: 5px 5px 5px rgba(84, 84, 84, 0.40);
 }
 
+#latest-job {
+  padding: 2px;
+  background-color: rgba(200, 200, 200, 0.3);
+}
+
 #work-experience {
   margin: 0 0 5px 0;
   border-bottom: 2px solid black;
@@ -54,6 +59,7 @@ body {
 
 .duties {
   font-size: 12px;
+  margin: 0 0 5px 0;
 }
 
 h {
