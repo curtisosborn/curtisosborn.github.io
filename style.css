@@ -13,6 +13,11 @@
   background-color: rgba(0, 255, 153, 0.7);
 }
 
+.past-job {
+  padding: 2px;
+  background-color: rgba(0, 255, 153, 0.7);
+}
+
 #work-experience {
   margin: 0 0 5px 0;
   border-bottom: 1px solid grey;
