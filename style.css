@@ -15,7 +15,7 @@
 
 #work-experience {
   margin: 0 0 5px 0;
-  border-bottom: 2px solid black;
+  border-bottom: 1px solid grey;
 }
 
 .company {
@@ -63,5 +63,9 @@ body {
 }
 
 h {
+  margin: 0 0 5px 0;
+}
+
+h3 {
   margin: 0 0 5px 0;
 }
