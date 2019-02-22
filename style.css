@@ -11,11 +11,13 @@
 #latest-job {
   padding: 2px;
   background-color: rgba(0, 255, 153, 0.7);
+  margin: 0 0 5px 0;
 }
 
 .past-job {
   padding: 2px;
-  background-color: rgba(0, 255, 153, 0.7);
+  background-color: rgba(255,255,255,0.6);
+  margin: 0 0 5px 0;
 }
 
 #work-experience {
