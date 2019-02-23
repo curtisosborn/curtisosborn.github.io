@@ -10,7 +10,7 @@
 
 #latest-job {
   padding: 2px;
-  background-color: rgba(255,255,255,0.4);
+  background-color: rgba(246,246,246,0.5);
   margin: 0 0 5px 0;
   padding: 5px;
   border-radius: 10px;
@@ -21,16 +21,29 @@
   transform: scale(1.01);
 }
 
-.past-job {
+#unit-operator {
   padding: 2px;
-  background-color: rgba(255,255,255,0.6);
+  background-color: rgba(204,204,204,0.5);
   margin: 10px 0 5px 0;
   padding: 5px;
   border-radius: 10px;
   box-shadow: 2px 2px 2px rgba(84, 84, 84, 0.20);
 }
 
-.past-job:hover {
+#unit-operator:hover {
+  transform: scale(1.01);
+}
+
+#station-operator{
+  padding: 2px;
+  background-color: rgba(153,153,153,0.5);
+  margin: 10px 0 5px 0;
+  padding: 5px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px rgba(84, 84, 84, 0.20);
+}
+
+#station-operator:hover {
   transform: scale(1.01);
 }
 
