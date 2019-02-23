@@ -23,12 +23,12 @@
   margin: 0 0 5px 0;
   padding: 5px;
   border-radius: 10px;
-  box-shadow: 2px 2px 2px rgba(84, 84, 84, 0.20);
 }
 
 #latest-job:hover {
   transform: scale(1.01);
   background-color: rgba(246,246,246,0.5);
+  box-shadow: 2px 2px 2px rgba(84, 84, 84, 0.20);
 }
 
 #unit-operator {
@@ -36,12 +36,12 @@
   margin: 10px 0 5px 0;
   padding: 5px;
   border-radius: 10px;
-  box-shadow: 2px 2px 2px rgba(84, 84, 84, 0.20);
 }
 
 #unit-operator:hover {
   transform: scale(1.01);
   background-color: rgba(246,246,246,0.5);
+  box-shadow: 2px 2px 2px rgba(84, 84, 84, 0.20);
 }
 
 #station-operator{
@@ -49,12 +49,12 @@
   margin: 10px 0 5px 0;
   padding: 5px;
   border-radius: 10px;
-  box-shadow: 2px 2px 2px rgba(84, 84, 84, 0.20);
 }
 
 #station-operator:hover {
   transform: scale(1.01);
   background-color: rgba(246,246,246,0.5);
+  box-shadow: 2px 2px 2px rgba(84, 84, 84, 0.20);
 }
 
 #work-experience {
