@@ -17,6 +17,7 @@
   border-radius: 10px;
   box-shadow: 5px 5px 5px rgba(84, 84, 84, 0.40);
   color: rgba(34,34,34,0.85);
+
 }
 
 #latest-job {
@@ -24,6 +25,7 @@
   margin: 5px 0 5px 0;
   padding: 5px;
   border-radius: 10px;
+  color: rgba(48, 78, 94, 1);
 }
 
 #latest-job:hover {
@@ -37,6 +39,7 @@
   margin: 10px 0 5px 0;
   padding: 5px;
   border-radius: 10px;
+  color: rgba(48, 78, 94, 1);
 }
 
 #unit-operator:hover {
@@ -50,6 +53,7 @@
   margin: 10px 0 5px 0;
   padding: 5px;
   border-radius: 10px;
+  color: rgba(48, 78, 94, 1);
 }
 
 #station-operator:hover {
@@ -65,12 +69,13 @@
   border-radius: 5px;
   padding: 2px;
   font-size: 24px;
-  color: rgba(48, 78, 94, 1);
+  color: rgba(27, 44, 53, .8);
   box-shadow: 2px 2px 2px rgba(84, 84, 84, 0.40);
 }
 
 .company {
   margin: 0 0 5px 0;
+  color: rgba(27, 44, 53, .8);
 }
 
 #my-name {
