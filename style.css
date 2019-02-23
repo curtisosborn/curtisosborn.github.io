@@ -60,6 +60,7 @@
 #work-experience {
   margin: 0 0 5px 0;
   border-bottom: 1px solid grey;
+  background-color: rgba(242, 182, 50, 0.49);
 }
 
 .company {
