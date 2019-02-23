@@ -3,7 +3,7 @@
   margin: 40px auto 20px;
   padding: 10px;
   background-color: rgba(187, 187, 187, 0.6);
-  border: 2px solid rgba(34,34,34,0.57);
+  border: 2px solid rgba(19, 60, 41, .9);
   border-radius: 10px;
   box-shadow: 5px 5px 5px rgba(84, 84, 84, 0.40);
 }
@@ -13,7 +13,7 @@
   margin: 20px auto 60px;
   padding: 10px;
   background-color: rgba(187, 187, 187, 0.6);
-  border: 2px solid rgba(34,34,34,0.57);
+  border: 2px solid rgba(19, 60, 41, .9);
   border-radius: 10px;
   box-shadow: 5px 5px 5px rgba(84, 84, 84, 0.40);
   color: rgba(34,34,34,0.85);
@@ -60,12 +60,12 @@
 
 #work-experience {
   margin: 0 0 10px 0;
-  background-color: rgba(0,153,102,0.6);
+  background-color: rgba(34,34,34,0.2);
   margin: -10px -10px 0 -10px;
   border-radius: 5px;
-  padding: 5px;
-  font-size: 20px;
-  color: rgba(34,34,34,0.8);
+  padding: 2px;
+  font-size: 24px;
+  color: rgba(48, 78, 94, 1);
   box-shadow: 2px 2px 2px rgba(84, 84, 84, 0.40);
 }
 
