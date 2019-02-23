@@ -1,6 +1,6 @@
 #container {
   width: 800px;
-  margin: 40px auto 60px;
+  margin: 40px auto 20px;
   padding: 10px;
   background-color: rgba(187, 187, 187, 0.6);
   border: 2px solid black;
@@ -10,7 +10,7 @@
 
 #jobs-container {
   width: 800px;
-  margin: 40px auto 60px;
+  margin: 20px auto 60px;
   padding: 10px;
   background-color: rgba(187, 187, 187, 0.6);
   border: 2px solid black;
