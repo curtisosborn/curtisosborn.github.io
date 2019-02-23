@@ -8,9 +8,18 @@
   box-shadow: 5px 5px 5px rgba(84, 84, 84, 0.40);
 }
 
+#jobs-container {
+  width: 800px;
+  margin: 40px auto 60px;
+  padding: 10px;
+  background-color: rgba(187, 187, 187, 0.6);
+  border: 2px solid black;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px rgba(84, 84, 84, 0.40);
+}
+
 #latest-job {
   padding: 2px;
-  background-color: rgba(246,246,246,0.5);
   margin: 0 0 5px 0;
   padding: 5px;
   border-radius: 10px;
@@ -19,11 +28,11 @@
 
 #latest-job:hover {
   transform: scale(1.01);
+  background-color: rgba(246,246,246,0.5);
 }
 
 #unit-operator {
   padding: 2px;
-  background-color: rgba(204,204,204,0.5);
   margin: 10px 0 5px 0;
   padding: 5px;
   border-radius: 10px;
@@ -32,11 +41,11 @@
 
 #unit-operator:hover {
   transform: scale(1.01);
+  background-color: rgba(246,246,246,0.5);
 }
 
 #station-operator{
   padding: 2px;
-  background-color: rgba(153,153,153,0.5);
   margin: 10px 0 5px 0;
   padding: 5px;
   border-radius: 10px;
@@ -45,6 +54,7 @@
 
 #station-operator:hover {
   transform: scale(1.01);
+  background-color: rgba(246,246,246,0.5);
 }
 
 #work-experience {
