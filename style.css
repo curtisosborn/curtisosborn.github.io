@@ -98,7 +98,6 @@
 
 #Picture {
   border-radius: 50%;
-  float: left;
   background-image: url(Family.jpg);
   border: 2px solid black;
   width: 150px;
@@ -174,9 +173,4 @@ h4 {
 
 .skill-image {
   margin: 5px auto 5px;
-}
-
-.center {
-  margin-left: auto;
-  margin-right: auto;
 }
