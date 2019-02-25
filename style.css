@@ -162,6 +162,10 @@ h3 {
   text-align: center;
 }
 
+.skill-level {
+  font-family: 'Quicksand', Sans-serif;
+}
+
 h5 {
   margin: 0px;
   font-size: 15px;
