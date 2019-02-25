@@ -182,3 +182,7 @@ h4 {
 .skill-key {
   margin: 0 0 0 auto;
 }
+
+.skill-image {
+  float: right;
+}
