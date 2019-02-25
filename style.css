@@ -183,6 +183,6 @@ h4 {
   margin: 0 0 0 auto;
 }
 
-.skill-image {
-  float: right;
+.skill-description {
+  margin: 0 auto 5px;
 }
