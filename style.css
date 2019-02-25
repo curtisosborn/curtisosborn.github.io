@@ -114,7 +114,7 @@
 #my-name {
   font-size: 26px;
   font-family: 'Quicksand', sans-serif;
-  color: white;
+  color: rgba(48, 78, 94, 1);
   padding: 10px;
   border-bottom: : 2px solid black;
 }
@@ -122,7 +122,8 @@
 .my-contact {
   padding: 2px;
   margin: 2px;
-  font-size: 12px;
+  font-size: 13px;
+  color: rgba(48, 78, 94, 1);
 }
 
 body {
