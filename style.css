@@ -108,8 +108,8 @@
   border-radius: 50%;
   float: right;
   border: 2px solid rgba(19, 60, 41, .8);
-  width: 150px;
-  height: 150px;
+  width: 160px;
+  height: 160px;
   padding: 0px;
   margin: -10px 0 0 0;
   box-shadow: 3px 3px 3px rgba(84, 84, 84, 0.40);
@@ -130,7 +130,7 @@
 .my-contact {
   padding: 0px;
   margin: 0px;
-  font-size: 13px;
+  font-size: 12px;
   color: rgba(48, 78, 94, 1);
 }
 
