@@ -46,6 +46,10 @@
   font-size: 18px;
 }
 
+.details {
+  margin: 0 auto 0 10px;
+}
+
 #latest-job {
   padding: 2px;
   margin: 5px 0 5px 0;
@@ -102,12 +106,12 @@
 
 #Picture {
   border-radius: 50%;
-  background-image: url(Family.jpg);
-  border: 2px solid black;
-  width: 150px;
-  height: 150px;
+  float: right;
+  border: 2px solid rgba(19, 60, 41, .8);
+  width: 175px;
+  height: 175px;
   padding: 0px;
-  margin: 0px auto 10px;
+  margin: -35px 0 0 0;
 }
 
 .company {
@@ -156,6 +160,7 @@ body {
 .duties {
   font-size: 13px;
   margin: 0 0 5px 0;
+  font-family: 'Quicksand', sans-serif;
 }
 
 h1 {
