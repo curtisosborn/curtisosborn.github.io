@@ -112,6 +112,7 @@
   height: 160px;
   padding: 0px;
   margin: -20px 0 0 0;
+  box-shadow: 3px 3px 3px rgba(84, 84, 84, 0.40);
 }
 
 .company {
