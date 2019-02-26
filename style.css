@@ -42,6 +42,10 @@
   color: rgba(34,34,34,0.85);
 }
 
+#short-description {
+  font-size: 18px;
+}
+
 #latest-job {
   padding: 2px;
   margin: 5px 0 5px 0;
