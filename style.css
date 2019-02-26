@@ -108,10 +108,10 @@
   border-radius: 50%;
   float: right;
   border: 2px solid rgba(19, 60, 41, .8);
-  width: 160px;
-  height: 160px;
+  width: 150px;
+  height: 150px;
   padding: 0px;
-  margin: -20px 0 0 0;
+  margin: -10px 0 0 0;
   box-shadow: 3px 3px 3px rgba(84, 84, 84, 0.40);
 }
 
